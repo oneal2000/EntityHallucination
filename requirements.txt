@@ -1,0 +1,9 @@
+torch==1.10.0
+transformers==4.30.2
+beir==1.0.1
+openai
+datasets
+tqdm
+scipy
+evaluate==0.2.2
+spacy==3.5.0
