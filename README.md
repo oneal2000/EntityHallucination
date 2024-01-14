@@ -1,9 +1,6 @@
-# DRAD
-The source code of our submitted paper: DRAD
-
 # Overview
 
-[TODO]
+The source code of our submitted paper: DRAD
 
 # Install environment
 
@@ -66,7 +63,3 @@ python3 src/main.py \
 ```
 
 You can modify the parameters to meet your running requirements. Note that if you want to use the GPT model to run, for example `text-davinci-003`, please use `gpt-text-davinci-003` in `model_name_or_path` to indicate that this is a GPT model.
-
-# Citation
-
-[TODO]
